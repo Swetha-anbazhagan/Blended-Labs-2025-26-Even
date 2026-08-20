@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Swetha A
+* **Register Number**: 212224040343
+* **Date of Submission**: 20/08/2026
 
 ---
 
@@ -110,19 +110,21 @@ Terminate the EC2 instance after completing the experiment to avoid unnecessary 
 
 ### Screenshot 1: EC2 Dashboard / Instance List
 
-(Insert Screenshot Here)
+<img width="1919" height="979" alt="Screenshot 2026-08-20 233548" src="https://github.com/user-attachments/assets/b080a0ac-9752-4b2f-b90c-5b28e34c47ee" />
+
 
 ---
 
 ### Screenshot 2: SSH Connection to Instance
 
-(Insert Screenshot Here)
+<img width="1918" height="1080" alt="Screenshot 2026-08-19 095706" src="https://github.com/user-attachments/assets/6fab762f-efd4-4b9a-ae0e-6e039edc3b3b" />
+
 
 ---
 
 ### Screenshot 3: Instance Monitoring / Status
+<img width="1919" height="983" alt="Screenshot 2026-08-20 234216" src="https://github.com/user-attachments/assets/30911cb7-dbd0-4cbb-ba4f-4067863d2fa9" />
 
-(Insert Screenshot Here)
 
 ---
 
