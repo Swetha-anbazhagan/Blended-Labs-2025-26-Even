@@ -84,13 +84,13 @@ Test the database server by connecting to it locally or remotely and performing 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+A DB Subnet Group was created with subnets from two Availability Zones to allow the database to run in a Multi-AZ environment for high availability.
 
----
+A MySQL RDS instance named lab-db was created with the database name lab, username main, and password lab-password.
+
+The database was associated with the DB Security Group and the Lab VPC so that the web server can securely connect to the database.
+
+The web application running on the EC2 server was opened using its IP address, and the RDS endpoint, database name, username, and password were entered to interact with the database.
 
 ## Output Screenshots (Attach 3)
 
