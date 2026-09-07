@@ -98,18 +98,21 @@ Test the database server by connecting to it locally or remotely and performing 
 
 
 
+<img width="1917" height="982" alt="Screenshot 2026-09-07 154759" src="https://github.com/user-attachments/assets/d56bc704-e5c8-4469-bef0-942c02245dc3" />
 
 
 
 
 ### Screenshot 2: Database Service Running
 
+<img width="1917" height="982" alt="Screenshot 2026-09-07 154952" src="https://github.com/user-attachments/assets/2849f033-614b-4877-aacf-2b0fa3cbbd36" />
 
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
+<img width="1917" height="988" alt="Screenshot 2026-09-07 231249" src="https://github.com/user-attachments/assets/721474a5-ece3-4751-ba91-86927de2320b" />
 
 
 ---
