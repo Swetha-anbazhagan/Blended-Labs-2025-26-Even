@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: Swetha A
+* **Register Number**: 212224040343
+* **Date of Submission**: 07/09/26
 
 ---
 
@@ -96,19 +96,21 @@ Test the database server by connecting to it locally or remotely and performing 
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
 
----
+
+
+
+
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
+
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+
 
 ---
 
